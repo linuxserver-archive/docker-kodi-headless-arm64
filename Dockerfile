@@ -1,4 +1,4 @@
-FROM lsiobase/xenial.armhf
+FROM lsiobase/xenial.arm64
 MAINTAINER sparklyballs
 
 # package version
